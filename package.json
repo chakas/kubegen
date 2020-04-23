@@ -1,0 +1,16 @@
+{
+  "name": "kubegen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-dnd": "^10.0.2",
+    "react-dnd-html5-backend": "^10.0.2"
+  }
+}
